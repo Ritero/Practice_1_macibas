@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Practice_1_macibas</string>
+    <string name="bttonSendName">Send</string>
+    <string name="buttonReplayName">Replay</string>
+    <string name="messageHintText">Enter Your Message Here</string>
+    <string name="replayHintText">Enter Your Replay Here</string>
+    <string name="toastFirst">Enter Message</string>
+    <string name="toastsecond">Enter Replay</string>
+    <string name="chatTextViewMessageRecieved">Message Recieved</string>
+    <string name="chatFirstTextViewMessageSent">Message Sent</string>
+
 </resources>
